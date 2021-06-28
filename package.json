@@ -1,6 +1,7 @@
 {
   "name": "node-express",
   "version": "1.0.0",
+  "private": true,
   "description": "Node Express examples",
   "main": "index.js",
   "scripts": {
